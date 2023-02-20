@@ -1,6 +1,6 @@
 
 ## Halaman Registrasi
-![registrasi](https://user-images.githubusercontent.com/59468506/220020622-e9c44438-5539-4c94-90a3-7be67116fef8.png)
+![registrasi](https://user-images.githubusercontent.com/59468506/220021327-5bb0fffc-40b8-430a-8e7e-d06a2906e579.png)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
